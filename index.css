@@ -25,6 +25,7 @@ padding:left;
 }
 
 .main-grid {
+    background-color: rgb(199, 163, 116);
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     width: max-content;
